@@ -40,6 +40,7 @@ public class Main {
 						if(escolha == 2) {
 							novaListaVagas.removerVaga();
 						}
+						break;
 					}
 					case 2: {
 						exibirMenuCarros();
